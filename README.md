@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img align="center" width="" height="auto" src="image/chakra.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hussein</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Kenya.</h3>
@@ -11,7 +11,7 @@
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
--   👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/b3nzuk3?tab=repositories)**
+-   👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/b3nzuk3)**
 
 -   📫 How to reach me **hussenito7@gmail.com**
 
