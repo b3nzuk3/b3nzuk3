@@ -11,7 +11,7 @@
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
--   👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+-   👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/b3nzuk3?tab=repositories)**
 
 -   📫 How to reach me **hussenito7@gmail.com**
 
