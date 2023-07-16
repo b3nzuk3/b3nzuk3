@@ -13,7 +13,7 @@
 
 -   👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/b3nzuk3)**
 
--   📫 How to reach me **husseinsalim689@yahoo.com**
+-   📫 How to reach me **hussenito7@gmail.com**
 
 -   ⚡ Fun fact **I play games and go to the GYM very often.**
 
