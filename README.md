@@ -7,7 +7,7 @@
 
 -   🔭 I’m currently working on **Improving my Skills**
 
--   🌱 I’m currently learning **Angular and Django.**
+-   🌱 I’m currently learning **Data science.**
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
